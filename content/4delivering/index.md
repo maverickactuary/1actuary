@@ -8,9 +8,11 @@ title: Transformaction
 
 Here's the stark reality: few big protection projects succeed.
 
-There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows, some of whom have been clients. I've seen good, bad and ugly.
+There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows, some of whom have been clients. 
 
-Why do so many big projects struggle? What can we do to improve the chances of success and cut down on waste? How can we build robustly, cost effectively and at pace?
+I've seen good, bad and ugly.
+
+Why do so many big projects struggle? How can we improve the chances of success and cut down on waste, building robustly, cost effectively and at pace?
 
 This article reflects lesson learned from over 20 years' immersion in the protection market: growing a challenger to the second biggest IFA player, launching a two-man virtual life office then working for the impressive force which has topped the protection market for over 15 years.
 

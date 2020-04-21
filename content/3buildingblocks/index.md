@@ -32,7 +32,7 @@ The building blocks fall into two groups:
 
 These determine the possibilities for and importance of the core items.
 
-**Reinsurance terms** drive your pricing, support or limit your underwriting and largely set your business model and profitability. Choosing the right reinsurer, structure and level is therefore critical. Traditional tenders may not be the best option for all.
+**Reinsurance terms** drive your pricing, support or limit your underwriting and largely set your business model and profitability. Choosing the right reinsurer, structure and level is therefore critical. Big tenders may not work for you.
 
 **Distribution channels** determine the importance of price and underwriting and affect mortality. In most channels analyzing the effect of different distributors &ndash; and taking appropriate action &ndash; offers scope for competitive advantage: a point increasingly recognized by insurers and reinsurers.
 
