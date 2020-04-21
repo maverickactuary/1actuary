@@ -4,18 +4,25 @@ folder: /content/2marketplayers/
 title: Transformaction
 ---
 
-## Friendly focus
+## Fascinating Friendlies
 
 The top six Friendly Societies with adviser focus are fascinating. The following table summarizes their product offerings. Most offer Income Protection (IP), some offer over-50s cover (50+) and just one has branched into a niche term offering.
 
-| # | Society     | IP | 50+   | Term  |
-|:-:|:------------|:--:|:-----:|:-----:|
-| 1 | British     | Y  | N     | N     |
-| 2 | Cirencester | Y  | N     | N     |
-| 3 | Holloway    | Y  | N     | N     |
-| 4 | Shepherds   | Y  | Y     | N     |
-| 5 | The Exeter  | Y  | N     | Niche |
-| 6 | OneFamily   | N  | Niche | N     |
+| Society     | IP | 50+   | Term  |
+|:------------|:--:|:-----:|:-----:|
+| British     | Y  | N     | N     |
+| Cirencester | Y  | N     | N     |
+| Holloway    | Y  | N     | N     |
+| OneFamily   | N  | Niche | N     |
+| Shepherds   | Y  | Y     | N     |
+| The Exeter  | Y  | N     | Niche |
+
++ OneFamily provides just over-50s cover.
++ British, Cirencester and Holloway.
++ Shepherds adds an over-50s plan.
++ The Exeter swaps 50+ for two niche term plans.
+
+[Summary of over-50s providers](https://www.over50choices.co.uk/funeral-planning/over-50-life-insurance)
 
 You are an insurer who wants to improve its protection products, volumes or profits.
 
