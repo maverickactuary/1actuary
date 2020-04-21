@@ -42,11 +42,9 @@ There has been a little more protection focus of late, e.g. Canada Life and Zuri
 
 **Prediction 4: there will be more exits from segment 2.** Old Mutual Wealth has already [closed to new business](https://www.moneymarketing.co.uk/news/exclusive-ex-old-mutual-protection-arm-to-close-to-new-business/) and I think we're likely to see two more.
 
-<p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p>
+<!-- <p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p> -->
 
-<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies (Income Protection only), The Exeter (IP plus two niche life term products) and and OneFamily's over-50s plan (which includes a 20% critical illness component).</p>
-
-[Fascinating Friendlies](friendly-societies.html)
+<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These [Fascinating Friendlies](friendly-societies.html) include British, Cirencester, Holloway, and Shepherds Friendly Societies, The Exeter and OneFamily.</p>
 
 **Prediction 5: two Friendly Societies will develop enhanced protection offerings.** This means menu-based plans including life and critical illness products.
 
