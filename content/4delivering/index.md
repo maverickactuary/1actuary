@@ -8,23 +8,21 @@ title: Transformaction
 
 Here's the stark reality: few big protection projects succeed.
 
-This article reflects 20 years' immersion on the individual protection market: growing a challenger to the second biggest IFA player, launching a two-man virtual life office then working for the impressive force which has been the biggest protection insurer for the last 15 years.
+There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows, some of whom have been clients. I've seen good, bad and ugly.
 
-Beyond that I've seen the good, bad and ugly at clients and have been (more than) an observer over 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows, some of whom have been clients.
+Why do so many big projects struggle? What can we do to improve the chances of success and cut down on waste? How can we build robustly, cost effectively and at pace?
 
-This article sets out some lessons learned. Why do so many big projects struggle? What can we do to improve the chances of success and cut down on waste?
+This article reflects lesson learned from over 20 years' immersion in the protection market: growing a challenger to the second biggest IFA player, launching a two-man virtual life office then working for the impressive force which has topped the protection market for over 15 years.
 
 ## My audience
 
-1. **Specialists** who can build and grow beyond Income Protection.
-2. **Challengers** who can improve to be a top 6 player.
-3. **Leaders** who still have scope for optimizations.
-
-This article is especially aimed those who want to build a protection proposition, but robustly, cost effectively and at pace and also those who believe they have significant work to do to catch the leaders.
+1. **Specialists** who want to build and grow beyond Income Protection.
+2. **Challengers** who want to break out and grow into a top 6 player.
+3. **Leaders** who know they still have scope for optimizations.
 
 ## A fresh approach
 
-Successful protection (re-)launches by those not already in the top six come around once a decade. The new approach saves money, heartache and face and provides upside.
+Successful protection (re-)launches by those outside the top six come around once a decade. The new approach saves money, heartache and provides upside.
 
 **The worst case scenario** under the new approach is to stop after stage 3, with three months' effort and a five-figure spend. Contrast that with pulling a launch after two or more years' work. Worse still, spending tens of millions on systems and consultants with little to show.
 {: .highlight}
@@ -54,9 +52,9 @@ This supplies the drive to move forward and spend with confidence.
 
 ### Stage 1
 
-**In the old world** this involved generating the proposition. Perhaps you have a blank sheet of paper, are unconstrained by legacy systems and have great product ideas. You may talk to a reinsurer. They've heard all this before, but are (may be) too polite to say.
+**In the old world** you generate the proposition. Perhaps you have a blank sheet of paper, are unconstrained by legacy systems and have great product ideas. You may talk to a reinsurer. They've heard all this before, but are (may be) too polite to say.
 
-**In the new world** you do the above, but instead of approaching reinsurers get the proposition reviewed by a protection expert. He's heard all this before, but is not too polite to say. Instead he builds on your ideas, suggests what reinsurers want and equips you.
+**In the new world** you postpone approaching reinsurers and instead get the proposition reviewed by a protection expert. He's builds on your ideas, suggests what reinsurers want and equips you.
 
 ### Stage 2
 
