@@ -78,7 +78,7 @@ This supplies the drive to move forward and spend with confidence.
 
 ### Stage 4
 
-**In the old world** you're a year or more in. The build is going slowly. You've gone back to the first reinsurer, who now say "no" &mdash; but this is no time for turning back.
+**In the old world** you're a year or more in. The build is going slowly. You've gone back to the first reinsurer, who now say "no". But this is no time for turning back.
 
 **In the new world** month four is about to start and you need to decide how you move forward at speed. Your protection expert suggests that the launch will take at most 9 months: a year from start to finish. You can spend more money, confident in the return.
 

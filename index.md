@@ -6,7 +6,7 @@ title: "Transformaction"
 
 # Protection is tough ...
 
-... for specialists, challengers, leaders and reinsurers.
+... whether you're a specialist, challenger, leader or reinsurer.
 
 **Specialists** &mdash; perhaps you are a Friendly Society with Income Protection as your main product. You know this exposes your Society and its members to strategic risk and aspire to be more than an IP provider. But the path to success is unclear.
 

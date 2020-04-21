@@ -14,8 +14,8 @@ Build your way to protection success. Develop expertise and capability in:
 + New business underwriting
 + Existing business servicing
 + Product design
++ Pricing
 + Commission
-+ Price
 
 Look beyond the insurer to see why these are so important:
 
