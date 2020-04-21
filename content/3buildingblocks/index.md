@@ -7,7 +7,7 @@ title: Transformaction
 
 ## Building blocks
 
-Here are the building blocks for protection success:
+Build your way to protection success. Develop expertise and capability in:
 
 + Reinsurance
 + Distribution
