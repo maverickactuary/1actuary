@@ -17,79 +17,20 @@ The top six Friendly Societies with adviser focus are fascinating. The following
 | Shepherds   | Y  | Y     | N     |
 | The Exeter  | Y  | N     | Niche |
 
-+ OneFamily provides just over-50s cover.
-+ British, Cirencester and Holloway.
-+ Shepherds adds an over-50s plan.
-+ The Exeter swaps 50+ for two niche term plans.
-
 [Summary of over-50s providers](https://www.over50choices.co.uk/funeral-planning/over-50-life-insurance)
 
-You are an insurer who wants to improve its protection products, volumes or profits.
+## British, Cirencester and Holloway
 
-A good first step is to review the landscape: who are your competitors and what advantages do they enjoy over you? Do you have what it takes to secure the improvement you want?
+## OneFamily
 
-This page comprises a market segmentation including my predictions.
+Main business is ... Provides just over-50s cover.
 
-## Market segmentation and predictions
+## Shepherds
 
-The segments are broadly based on total new business premiums (not restricted to the IFA market) and activity as measured by specialist press coverage.
+Adds an over-50s plan.
 
-Companies in segments 1-3 distribute (at least) via the IFA market. The focus in segments 4-5 moves beyond IFA distribution, although some segment 4 insurers also use the IFA channel. 
+## The Exeter
 
-Differences between insurers as we move from segment 2 to segment 3 include:
+Swaps 50+ for two niche term plans.
 
-+ size (premium income)
-+ product range
-+ resources (number of protection staff)
-+ operational and technical expertise
-+ underwriting automation
-+ use of reinsurance
-
-There has been a little more protection focus of late, e.g. Canada Life and Zurich.
-{: .update}
-
-<p class="highlight"><strong>Segment 1: top six companies with full product ranges.</strong> For 15+ years L&G has been top, followed by Aviva. Then, in alphabetical order, there's AIG, Royal London, Vitality and Zurich.</p>
-
-**Prediction 1: L&amp;G will remain top and Aviva second.** This is due to their resources, deep technical and operational expertise and diversified distribution. They will be hard to shift.
-
-**Prediction 2: occupancy of positions 3-6 in segment 1 will permute.** This has been going on for a few years now. I am not quite so confident of this, as companies have different strengths.
-
-<p class="highlight"><strong>Segment 2: others with full product ranges.</strong> Long-term incumbents Aegon and LV= have been joined by four entrants and re-entrants: Canada Life, Guardian, HSBC and Scottish Widows.</p>
-
-**Prediction 3: there will be no breakthroughs into segment 1.** Long-standing players have not given protection enough focus and the success of more recent entrants &ndash; or re-entrants &ndash; is unclear.
-
-**Prediction 4: there will be more exits from segment 2.** Old Mutual Wealth has already [closed to new business](https://www.moneymarketing.co.uk/news/exclusive-ex-old-mutual-protection-arm-to-close-to-new-business/) and I think we're likely to see two more.
-
-<p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p>
-
-<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies (Income Protection only), The Exeter (IP plus two niche life term products) and and OneFamily's over-50s plan (which includes a 20% critical illness component).</p>
-
-**Prediction 5: two Friendly Societies will develop enhanced protection offerings.** This means menu-based plans including life and critical illness products.
-
-<p class="highlight"><strong>Segment 4: Aggregator insurers.</strong> This includes an array of very different insurers beyond (but including some of) the insurers in segments 1-2. Segment 4 is not considered further here.</p>
-
-<p class="highlight"><strong>Segment 5: Direct to Consumer and non-participants.</strong> Reviti and Dead Happy are examples of D2C companies. There are many non-participants.</p>
-
-Where next? Defaqto's [2020 Protection Service Review](https://defaqto.com/advisers/publications/protection-service-review-2020/) gives advisers' views.
-
-+ Extending the segment 1-3 analysis: [20 protection providers ranked](defaqto-market.html)
-+ Competitive advantage: [the top 10 service areas](/3successfactors)
-
-<!-- Suppress
-
-### Segment 2: further detail
-
-#### Long-standing companies
-
-+ [Aegon](https://www.aegon.com/about/at-a-glance/) is a large international insurer of Dutch origin and says it is "one of the world's leading providers of life insurance, pensions and asset management". [Aegon UK](https://www.ftadviser.com/pensions/2019/10/09/legacy-of-aegon-boss-still-positive/) changed its UK CEO in September 2019 and recent years saw challenges with its investment platform business. It may therefore struggle to give UK protection the required degree of focus to succeed.
-+ LV=
-+ **Lutine** is a proudly specialist provider of shorter-term protection cover.
-  
-#### New entrants and re-entrants
-
-+ **Canada Life** had a UK protection presence in the 1990s, but re-entered the market in Q3 2015. The [Canada Life UK Individual Protection business](https://www.canadalife.co.uk/adviser/individual-protection/) is deep with in the site.
-+ **Guardian** is a brand with a long history. The brand re-entered the protection market in Q1 2018, but has faced challenges.
-+ **HSBC** had a life insurer in the banking group for many years, selling protection through its branch network. It entered the main UK protection market in Q3 2019, distributing through the IFA and aggregator channels.
-+ **Scottish Widows** is another old company which re-entered the protection market in Q2 2016)
-
--->
+[Managed Life](https://www.the-exeter.com/customer/life-cover/managed-life/) is specialist life cover for people who suffer from type 2 diabetes or who are overweight. It has reviewable premiums: The Exeter asks for evidence of the customer's condition each year and if the policyholder gets healthier premiums reduce &mdash; and vice versa.
