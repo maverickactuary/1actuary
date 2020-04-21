@@ -44,7 +44,7 @@ There has been a little more protection focus of late, e.g. Canada Life and Zuri
 
 <!-- <p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p> -->
 
-<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies, The Exeter and OneFamily.</p>
+<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies. OneFamily and The Exeter are different.</p>
 
 Read more about the [Fascinating Friendlies](friendly-societies.html).
 
