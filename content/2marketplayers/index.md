@@ -14,13 +14,23 @@ This page comprises a market segmentation including my predictions.
 
 ## Market segmentation and predictions
 
-The segments are broadly based on total new business premiums (not restricted to the IFA market) and market presence as measured by activity (e.g. specialist press coverage).
+The segments are broadly based on total new business premiums (not restricted to the IFA market) and activity as measured by specialist press coverage.
 
 Companies in segments 1-3 distribute (at least) via the IFA market. The focus in segments 4-5 moves beyond IFA distribution, although some segment 4 insurers also use the IFA channel. 
 
 Differences between insurers &ndash; particularly notable going from segment 2 to segment 3 &ndash; include size (e.g. premium income), resources (number of staff dedicated to protection), operational and technical expertise, degree of underwriting automation, product range and use of reinsurance.
 
-There has been a little more protection focus of late, e.g. Canada Life and Zurich.{: .update}
+Moving from segment 2 to segment 3, differences between insurers become notable and include:
+
++ size (premium income)
++ product range
++ resources (number of protection staff)
++ operational and technical expertise
++ underwriting automation
++ use of reinsurance
+
+There has been a little more protection focus of late, e.g. Canada Life and Zurich.
+{: .update}
 
 <p class="highlight"><strong>Segment 1: top six companies with full product ranges.</strong> For 15+ years L&G has been top, followed by Aviva. Then, in alphabetical order, there's AIG, Royal London, Vitality and Zurich.</p>
 
@@ -30,11 +40,13 @@ There has been a little more protection focus of late, e.g. Canada Life and Zuri
 
 <p class="highlight"><strong>Segment 2: others with full product ranges.</strong> Long-term incumbents Aegon and LV= have been joined by four entrants and re-entrants: Canada Life, Guardian, HSBC and Scottish Widows.</p>
 
-**Prediction 3: there will be no breakthroughs into segment 1.** Membership will stay the same. The long-standing players have struggled to get the required protection focus, while the success of more recent entrants &ndash; or re-entrants &ndash; is unclear.
+**Prediction 3: there will be no breakthroughs into segment 1.** Long-standing players have struggled to get the required protection focus, while the success of more recent entrants &ndash; or re-entrants &ndash; is unclear.
 
 **Prediction 4: there will be more exits from segment 2.** Old Mutual Wealth has already [closed to new business](https://www.moneymarketing.co.uk/news/exclusive-ex-old-mutual-protection-arm-to-close-to-new-business/) and I think we're likely to see two more.
 
 <p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p>
+
+<p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies (Income Protection only), The Exeter (IP plus two niche life term products) and and OneFamily's over-50s plan (which includes a 20% critical illness component).</p>
 
 **Prediction 5: two Friendly Societies will develop enhanced protection offerings.** This means menu-based plans including life and critical illness products.
 
