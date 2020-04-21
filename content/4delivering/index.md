@@ -8,13 +8,13 @@ title: Transformaction
 
 Here's the stark reality: few big protection projects succeed.
 
-There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows, some of whom have been clients. 
+There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows. Some have been clients.
 
 I've seen good, bad and ugly.
 
 Why do so many big projects struggle? How can we improve the chances of success and cut down on waste, building robustly, cost effectively and at pace?
 
-This article reflects lesson learned from over 20 years' immersion in the protection market: growing a challenger to the second biggest IFA player, launching a two-man virtual life office then working for the impressive force which has topped the protection market for over 15 years.
+This article reflects lessons learned from over 20 years' immersion in the protection market: growing a challenger to the second biggest IFA player, launching a two-man virtual life office then working for the impressive force which has topped the protection market for over 15 years.
 
 ## My audience
 
@@ -54,7 +54,7 @@ This supplies the drive to move forward and spend with confidence.
 
 ### Stage 1
 
-**In the old world** you generate the proposition. Perhaps you have a blank sheet of paper, are unconstrained by legacy systems and have great product ideas. You may talk to a reinsurer. They've heard all this before, but are (may be) too polite to say.
+**In the old world** you generate the proposition. Perhaps you have a blank sheet of paper, are unconstrained by legacy systems and have great product ideas. You may talk to a reinsurer. They've heard all this before, but are too polite to say.
 
 **In the new world** you postpone approaching reinsurers and instead get the proposition reviewed by a protection expert. He's builds on your ideas, suggests what reinsurers want and equips you.
 
@@ -66,7 +66,7 @@ This supplies the drive to move forward and spend with confidence.
 
 ### Stage 3
 
-**In the old world** you recruit or upgrade your underwriting team or buy in expertise. You start or continue with the systems work, which now includes an underwriting engine. There's significant commitment and the spend is mounting. No sign of reinsurance yet.
+**In the old world** you recruit or upgrade your underwriting team and start or continue with the systems work, which now includes an underwriting engine. There's significant commitment and the spend is mounting. No sign of reinsurance yet.
 
 **In the new world** your expert introduces you to several reinsurers. Impressed with your insight, they can certainly work with your expert and nominated underwriters. A few days later two reinsurers confirm they will supply terms. Three weeks later indicative terms arrive.
 
@@ -78,7 +78,7 @@ This supplies the drive to move forward and spend with confidence.
 
 ### Stage 4
 
-**In the old world** you're a year or more in and the build is progressing slowly. You've gone back to the first reinsurer. They now say "no" &mdash; explicitly. But this is no time for turning back.
+**In the old world** you're a year or more in and the build is progressing slowly. You've gone back to the first reinsurer. They now say "no" &mdash; but this is no time for turning back.
 
 **In the new world** month four is about to start and you need to decide how you move forward at speed. Your protection expert suggests that the launch will take at most 9 months: a year from start to finish. You can spend more money, confident in the return.
 
