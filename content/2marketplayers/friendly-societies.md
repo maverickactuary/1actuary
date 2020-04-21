@@ -4,7 +4,18 @@ folder: /content/2marketplayers/
 title: Transformaction
 ---
 
-## Market players in 2020
+## Friendly focus
+
+The top six Friendly Societies with adviser focus are fascinating. The following table summarizes their product offerings. Most offer Income Protection (IP), some offer over-50s cover (50+) and just one has branched into a niche term offering.
+
+| # | Society     | IP | 50+   | Term  |
+|:-:|:------------|:--:|:-----:|:-----:|
+| 1 | British     | Y  | N     | N     |
+| 2 | Cirencester | Y  | N     | N     |
+| 3 | Holloway    | Y  | N     | N     |
+| 4 | Shepherds   | Y  | Y     | N     |
+| 5 | The Exeter  | Y  | N     | Niche |
+| 6 | OneFamily   | N  | Niche | N     |
 
 You are an insurer who wants to improve its protection products, volumes or profits.
 
@@ -45,8 +56,6 @@ There has been a little more protection focus of late, e.g. Canada Life and Zuri
 <p class="highlight"><strong>Segment 3: companies with restricted product ranges.</strong> These are typically monoline Friendly Societies: The Exeter, British, Cirencester, Holloway, and Shepherds Friendly Societies offer Income Protection while OneFamily has an over-50s plan.</p>
 
 <p class="highlight"><strong>Segment 3: Friendly Societies with more limited product ranges.</strong> These include British, Cirencester, Holloway, and Shepherds Friendly Societies (Income Protection only), The Exeter (IP plus two niche life term products) and and OneFamily's over-50s plan (which includes a 20% critical illness component).</p>
-
-[Fascinating Friendlies](friendly-societies.html)
 
 **Prediction 5: two Friendly Societies will develop enhanced protection offerings.** This means menu-based plans including life and critical illness products.
 
