@@ -18,9 +18,7 @@ The segments are broadly based on total new business premiums (not restricted to
 
 Companies in segments 1-3 distribute (at least) via the IFA market. The focus in segments 4-5 moves beyond IFA distribution, although some segment 4 insurers also use the IFA channel. 
 
-Differences between insurers &ndash; particularly notable going from segment 2 to segment 3 &ndash; include size (e.g. premium income), resources (number of staff dedicated to protection), operational and technical expertise, degree of underwriting automation, product range and use of reinsurance.
-
-Moving from segment 2 to segment 3, differences between insurers become notable and include:
+Differences between insurers as we move from segment 2 to segment 3 include:
 
 + size (premium income)
 + product range
@@ -40,7 +38,7 @@ There has been a little more protection focus of late, e.g. Canada Life and Zuri
 
 <p class="highlight"><strong>Segment 2: others with full product ranges.</strong> Long-term incumbents Aegon and LV= have been joined by four entrants and re-entrants: Canada Life, Guardian, HSBC and Scottish Widows.</p>
 
-**Prediction 3: there will be no breakthroughs into segment 1.** Long-standing players have struggled to get the required protection focus, while the success of more recent entrants &ndash; or re-entrants &ndash; is unclear....
+**Prediction 3: there will be no breakthroughs into segment 1.** Long-standing players have not given protection enough focus and the success of more recent entrants &ndash; or re-entrants &ndash; is unclear.
 
 **Prediction 4: there will be more exits from segment 2.** Old Mutual Wealth has already [closed to new business](https://www.moneymarketing.co.uk/news/exclusive-ex-old-mutual-protection-arm-to-close-to-new-business/) and I think we're likely to see two more.
 
