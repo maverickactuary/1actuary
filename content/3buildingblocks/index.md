@@ -10,14 +10,14 @@ title: Transformaction
 Build your way to protection success. Develop expertise and capability in:
 
 + Reinsurance
-+ Distribution
-+ New business underwriting
-+ Existing business servicing
-+ Product design
 + Pricing
++ New business underwriting
++ Distribution
++ Product design
 + Commission
++ Existing business servicing
 
-Look beyond the insurer to see why these are so important:
+I've ordered these &mdash; most important first &mdash; in a way consistent with [robust and cost effective delivery](/content/4delivering/) of a major protection project. The ranking applies also for ongoing success. Look beyond the insurer to see why these building blocks are so important:
 
 + **Consumers** are affected by products, underwriting and price.
 + **Distributors** want sales (c.f. consumer factors) and commission.
