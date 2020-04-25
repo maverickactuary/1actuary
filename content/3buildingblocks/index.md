@@ -6,7 +6,7 @@ title: Planning &mdash; building blocks of protection success
 
 ## Planning success: building blocks
 
-Planning &mdash; step two in a protection challenge &mdash; includes free third party advice:
+Planning &mdash; step two in a protection challenge &mdash; includes a strong steer, based on a survey of IFAs:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
@@ -49,7 +49,9 @@ Defaqto's [2020 Protection Service Review](https://defaqto.com/advisers/publicat
 
 **The categories are a little odd.** Underwriting (item 1) is a large part of new business processing (item 3). Online services (item 5) and existing business administration (item 8) also overlap.
 
-**The gaps in the scores in 2019 and 2018 suggest four groups.** The first group (1-3) mainly covers new business processing, although claims is in second place &ndash; perhaps due to consumer distrust. The second group is product. Group three (5-8) is about ongoing support. The final group may show disdain for commission levels and business development managers.
+**The gaps in the scores in 2019 and 2018 suggest four groups.** The first group (1-3) mainly covers new business processing. Claims makes second place, perhaps due to consumer distrust of insurers. 
+
+The second group is product and group three (5-8) is about ongoing support. The final group may show disdain for commission levels and business development managers.
 
 **Price is not covered.** While this is a survey about service, price is always important: we only debate the extent. Demand for individual protection is price inelastic overall but elastic at the company level.
 

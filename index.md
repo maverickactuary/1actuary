@@ -18,7 +18,7 @@ title: Transformaction &mdash; build &middot; improve &middot; optimize
 
 ## How I can help
 
-Tweaking the plan-do-review approach gives a firm foundation for making dramatic progress:
+Tweaking the plan-do-review cycle gives a foundation for dramatic progress:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
@@ -42,7 +42,7 @@ I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and fou
 
 My focus is on price competitive markets, especially insurance protection, working with market leaders, start-ups and those needing fresh impetus. 
 
-Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. [Given their importance](/content/3buildingblocks/reinsurance-for.html), I also work closely with reinsurers.
+Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. I also have close [reinsurance](/content/3buildingblocks/reinsurance-for.html) relationships.
 
 ## Specialisms
 
@@ -61,6 +61,6 @@ Let's work together.
 Why not arrange a free 1 hour MS teams, Skype, Webex or Zoom? Or read on to:
 
 + [Review and segment the individual protection market](/content/2marketplayers/)
-+ [Learn about the real impact of reinsurers](/content/3buildingblocks/reinsurance-for.html)
++ [Learn about effective reinsurance](/content/3buildingblocks/reinsurance-for.html)
 + [Investigate the building blocks of protection success](/content/3buildingblocks/)
 + [Determine the best route to delivery](/content/4delivering/)
