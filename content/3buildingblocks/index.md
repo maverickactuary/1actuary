@@ -81,7 +81,7 @@ It is no surprise to see underwriting in top position. Entering most markets wit
 
 ### Core 3: Existing business servicing
 
-Claims is important enough to be lifted out of this category, securing second place. You should be seen to act fairly, in line with the [ABI guidance](https://www.abi.org.uk/globalassets/sitecore/files/documents/publications/public/migrated/health/abi-guidance-on-non-disclosure-and-treating-customer-fairly.pdf"). Expect a higher decline rate early on. Other items such as online alterations are less important.
+Claims is important enough to be lifted out of this category, securing second place. You should be seen to act fairly, in line with the [ABI guidance](https://www.abi.org.uk/globalassets/sitecore/files/documents/publications/public/migrated/health/abi-guidance-on-non-disclosure-and-treating-customer-fairly.pdf). Expect a higher decline rate early on. Other items such as online alterations are less important.
 
 **Suggestion:** Fair still means taking an appropriate line with non-disclosure, so agree your approach with your reinsurer(s). Pre-emptively monitor disclosures at the distributor level. Claims statistics are published but you could go further, using this as a sales tool.
 
