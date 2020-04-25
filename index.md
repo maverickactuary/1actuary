@@ -18,7 +18,7 @@ title: "Transformaction"
 
 ## How I can help
 
-I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and founder of Transformaction. I carry out or oversee all its work, primarily in protection.
+I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and founder of Transformaction, a boutique pricing and analytics consultancy with a focus on the protection market. I carry out or oversee all work.
 
 **If you are a specialist** I have the expertise and toolkit, developed over many years, to help you to enter markets, develop products and maximize profits by trading off prices, volume and much more.
 

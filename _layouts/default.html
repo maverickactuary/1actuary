@@ -26,10 +26,10 @@
     
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+<!--    <a id="skip-to-content" href="#content">Skip to the content.</a>-->
 
     <!-- <header class="page-header" role="banner"> -->
-    <header class="page-header">
+    <header class="page-header" id="myheader">
       {% include navigation.html %}
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
       <h1 class="project-name">Transform<span class="tdlheading">action</span></h1>
@@ -60,5 +60,21 @@
       
       </footer>
     </main>
+
+    <script>
+      var prevScrollpos = window.pageYOffset;
+      window.onscroll = function() {
+      var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+          document.getElementById("myheader").style.top = "0";
+        } else {
+          if (prevScrollpos >= 100) {
+            document.getElementById("myheader").style.top = "-8.1em";
+          }
+        }
+        prevScrollpos = currentScrollPos;
+      }
+      </script>
+
   </body>
 </html>

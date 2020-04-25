@@ -45,6 +45,15 @@ header {
 	top: 0
 }
 
+/* nice removal of header 
+https://stackoverflow.com/questions/54164397/bootstrap-4-how-to-make-fixed-top-navbar-disappear-on-scroll/54164631
+and
+https://www.youtube.com/watch?v=LB70WzwBCTo
+*/
+
+#myheader {	
+	transition: top 0.8s;
+}
 
 .tdlheading {
 /* Have fun at https://pinetools.com/lighten-color
