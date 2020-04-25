@@ -27,9 +27,6 @@ Differences between insurers as we move from segment 2 to segment 3 include:
 + underwriting automation
 + use of reinsurance
 
-There has been a little more protection focus of late, e.g. Canada Life and Zurich.
-{: .update}
-
 <p class="highlight"><strong>Segment 1: top six companies with full product ranges.</strong> For 15+ years L&G has been top, followed by Aviva. Then, in alphabetical order, there's AIG, Royal London, Vitality and Zurich.</p>
 
 **Prediction 1: L&amp;G will remain top and Aviva second.** This is due to their resources, deep technical and operational expertise and diversified distribution. They will be hard to shift.
@@ -58,22 +55,3 @@ Where next? Defaqto's [2020 Protection Service Review](https://defaqto.com/advis
 
 + [20 protection providers ranked](defaqto-market.html)
 + [The top 10 service areas](/content/3buildingblocks/)
-
-<!-- Suppress
-
-### Segment 2: further detail
-
-#### Long-standing companies
-
-+ [Aegon](https://www.aegon.com/about/at-a-glance/) is a large international insurer of Dutch origin and says it is "one of the world's leading providers of life insurance, pensions and asset management". [Aegon UK](https://www.ftadviser.com/pensions/2019/10/09/legacy-of-aegon-boss-still-positive/) changed its UK CEO in September 2019 and recent years saw challenges with its investment platform business. It may therefore struggle to give UK protection the required degree of focus to succeed.
-+ LV=
-+ **Lutine** is a proudly specialist provider of shorter-term protection cover.
-  
-#### New entrants and re-entrants
-
-+ **Canada Life** had a UK protection presence in the 1990s, but re-entered the market in Q3 2015. The [Canada Life UK Individual Protection business](https://www.canadalife.co.uk/adviser/individual-protection/) is deep with in the site.
-+ **Guardian** is a brand with a long history. The brand re-entered the protection market in Q1 2018, but has faced challenges.
-+ **HSBC** had a life insurer in the banking group for many years, selling protection through its branch network. It entered the main UK protection market in Q3 2019, distributing through the IFA and aggregator channels.
-+ **Scottish Widows** is another old company which re-entered the protection market in Q2 2016)
-
--->
