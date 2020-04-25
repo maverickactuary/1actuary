@@ -1,12 +1,12 @@
 ---
 layout: default
 folder: /content/3buildingblocks/
-title: Transformaction
+title: Planning: building blocks of protection success
 ---
 
 ## Planning success: building blocks
 
-Planning is step two in our protection challenge:
+Planning is step two in our protection challenge includes free third party advice123:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
@@ -22,7 +22,7 @@ Build your way to protection success. Develop expertise and capability in:
 + Commission
 + Existing business servicing
 
-I've ordered these &mdash; most important first &mdash; in a way consistent with [robust and cost effective delivery](/content/4delivering/) of a major protection project. The ranking applies also for ongoing success. Look beyond the insurer to see why these building blocks are so important:
+The order is most important first to get [robust and cost effective delivery](/content/4delivering/) of a major protection project. The ranking applies also for ongoing success. Look beyond the insurer to see why these building blocks are so important:
 
 + **Consumers** are affected by products, underwriting and price.
 + **Distributors** want sales (c.f. consumer factors) and commission.
@@ -49,7 +49,7 @@ Defaqto's [2020 Protection Service Review](https://defaqto.com/advisers/publicat
 
 **The categories are a little odd.** Underwriting (item 1) is a large part of new business processing (item 3). Online services (item 5) and existing business administration (item 8) also overlap.
 
-**The gaps in the scores in 2019 and 2018 suggest four groups.** The first group (items 1-3) mainly covers new business processing, although claims is promoted to second place &ndash; perhaps due to consumers' distrust. The second group is product. Group three (items 5-8) concern ongoing support. The final group may show disdain for commission levels and business development managers.
+**The gaps in the scores in 2019 and 2018 suggest four groups.** The first group (1-3) mainly covers new business processing, although claims is in second place &ndash; perhaps due to consumer distrust. The second group is product. Group three (5-8) is about ongoing support. The final group may show disdain for commission levels and business development managers.
 
 **Price is not covered.** While this is a survey about service, price is always important: we only debate the extent. Demand for individual protection is price inelastic overall but elastic at the company level.
 
