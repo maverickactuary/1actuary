@@ -1,7 +1,7 @@
 ---
 layout: default
 folder: /content/3buildingblocks/
-# title: Planning: building blocks of protection success
+title: Planning &mdash; building blocks of protection success
 ---
 
 ## Planning success: building blocks
