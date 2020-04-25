@@ -1,14 +1,14 @@
 ---
 layout: default
-folder: /content/2marketplayers/
+folder: /content/3buildingblocks/
 title: Transformaction
 ---
 
 ## Reinsurance magic<sup>1</sup>
 
-All but one of the twelve largest protection insurers use substantial amounts of reinsurance. This has been their successful strategy since the 1990s with the top insurers reinsuring 100% since c2011.
+All but one of the twelve largest protection insurers use substantial amounts of reinsurance. This has been their successful strategy since the 1990s, with the top insurers reinsuring 100% since c2011.
 
-This article shows why reinsurance works and what can happen if you don't use it.
+This article shows why reinsurance works for them and ends with a nightmare scenario.
 
 ## Reinsurance? Not so fast!
 
@@ -20,7 +20,10 @@ The need for distribution is obvious; advisers need to have confidence in your p
 
 Reinsurance has many benefits for the modern protection insurer, especially when 100% reinsurance is used. It can really help smaller insurers and protection specialists.
 
-These benefits swamp the impact of the reinsurer's expenses and profits.
+These benefits can be measured numerically in profit tests and swamp the impact of the reinsurer's expenses and profits. This forms a business case for reinsurance.
+
+Aside: there are [two examples](reinsurance-against.html) of insurers not using much reinsurance.
+{: .update}
 
 **Reinsurance can help you to:**
 
@@ -45,9 +48,6 @@ These benefits swamp the impact of the reinsurer's expenses and profits.
 + Friendly societies, often with one main product, e.g. Holloway.
 
 Reinsurance passes through the benefit of a reinsurer's diversification.
-
-There are two examples of insurers not using much reinsurance.
-{: .update}
 
 ## The nightmare scenario
 

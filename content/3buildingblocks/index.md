@@ -3,9 +3,8 @@ layout: default
 folder: /content/3buildingblocks/
 title: Transformaction
 ---
-<!-- # Transformaction: optimize everything -->
 
-## Building blocks
+## Planning success: building blocks
 
 Build your way to protection success. Develop expertise and capability in:
 

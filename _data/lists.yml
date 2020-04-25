@@ -1,8 +1,10 @@
 - title: Home
   url: /
-- title: Market players
+# - title: Market players
+- title: Reviewing markets
   url: /content/2marketplayers/
-- title: Building blocks
+# - title: Building blocks
+- title: Planning success
   url: /content/3buildingblocks/
 - title: Delivering
   url: /content/4delivering/
