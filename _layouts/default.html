@@ -5,8 +5,13 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en" }}">
   <head>
-    <title>Difference Synonyms, Difference Antonyms | Thesaurus.com</title>
-    
+    <title>
+    {% if page.title %}
+      {{ page.title }} | Transformaction
+    {% else %}
+      Transformaction: build &middot; improve &middot; optimize
+    {% endif %}
+    </title>
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -27,9 +32,6 @@
     
   </head>
   <body>
-<!--    <a id="skip-to-content" href="#content">Skip to the content.</a>-->
-
-    <!-- <header class="page-header" role="banner"> -->
     <header class="page-header" id="myheader">
       {% include navigation.html %}
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
@@ -54,12 +56,9 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        
         Built with <a href="https://github.com">GitHub</a>, <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://www.netlify.com/">Netlify</a> and the Howe team | <a href="https://validator.w3.org/nu/?doc=https://1actuary.co.uk{{ page.url }}">HTML validator</a> | &copy; Copyright 2012-2020. Transformaction Development Limited, registered in England, no. 10344080.
-      
       </footer>
     </main>
-
     <script>
       var prevScrollpos = window.pageYOffset;
       window.onscroll = function() {
@@ -74,6 +73,5 @@
         prevScrollpos = currentScrollPos;
       }
       </script>
-
   </body>
 </html>
