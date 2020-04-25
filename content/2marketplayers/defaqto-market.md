@@ -8,7 +8,7 @@ title: Transformaction
 
 Defaqto’s [2020 Protection Service Review](https://defaqto.com/advisers/publications/protection-service-review-2020/) is free on registering. Highlights of the 2019 review can be found [here](https://defaqto.com/media-centre/press-releases/defaqto-protection-service-review-results-announced1/) and [here](https://www.ftadviser.com/protection/2019/02/27/most-popular-protection-providers-revealed/). The research ranked protection providers according to advisers’ use and preferences. These results are summarized in the table below.
 
-Defaqto also covered the most used products and [the top 10 service areas](/3successfactors/) for protection advisers.
+Defaqto also covered the most used products and [the top 10 service areas](/3buildingblocks/) for protection advisers.
 
 ## Most used and preferred insurers
 
