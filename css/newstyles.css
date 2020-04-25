@@ -87,7 +87,7 @@ nav a {
 
 nav a.active {
 	background-color: #78a6f1;
-	cursor: default
+	/* cursor: default AKH 25/04/2020 remove as more than one page in folder */
 }
 
 .update {
