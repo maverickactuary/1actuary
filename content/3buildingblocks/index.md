@@ -1,12 +1,12 @@
 ---
 layout: default
 folder: /content/3buildingblocks/
-title: Planning: building blocks of protection success
+# title: Planning: building blocks of protection success
 ---
 
 ## Planning success: building blocks
 
-Planning is step two in our protection challenge includes free third party advice123:
+Planning is step two in our protection challenge includes free third party advice:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
