@@ -18,7 +18,7 @@ title: "Transformaction"
 
 ## How I can help
 
-Tweaking the plan-do-review approach we can:
+Tweaking the plan-do-review approach gives a firm foundation for making dramatic progress:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
@@ -30,25 +30,25 @@ I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and fou
 
 **If you are a challenger** the leap is possible. My hands are strong and safe and will help you deliver the improvement you crave. Start now with a full review from a protection expert in just 10 days.
 
-**If you are a leader** you already have products, pricing, underwriting and distribution, so it's time to optimize. I can help deliver on the promise of distributor quality management, get your 70% STP rate to a market-leading 80%+ and automate market pricing.
+**If you are a leader** you already have products, pricing, underwriting and distribution. I can help you deliver on the promise of distributor quality management, get your 70% STP rate to a market-leading 80%+ and automate market pricing.
 
 **If you are a reinsurer** I can fill a technical or operational gap for your client, providing expertise: product development, experience investigations, distributor analytics and pricing. This lets you focus on your core business while providing the support that your client needs.
 
 **I can provide:**
 
-+ **Smart, effective and practical ideas**
-+ **Efficient and speedy delivery**
-+ **Competitively-priced expertise**
++ Smart, effective and practical ideas
++ Efficient and speedy delivery
++ Competitively-priced expertise
 
 My focus is on price competitive markets, especially insurance protection, working with market leaders, start-ups and those needing fresh impetus. 
 
-Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. Not suprisingly given their importance, I also work closely with reinsurers.
+Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. [Given their importance](/content/3buildingblocks/reinsurance-for.html), I also work closely with reinsurers.
 
 ## Specialisms
 
 **Reinsurance.** Almost all leading protection companies run with 100% reinsurance. If you are an insurer I can help target the right reinsurer for you, manage the costs and optimize the structures. Reinsurers get exceptional controls and a fair deal.
 
-**Pricing.** Interacting with many other areas, there are real opportunities to excel. I can provide pricing tools and methodologies right through to fully optimized market pricing. There's scope for competitive advantage here.
+**Pricing.** Interacting with many other areas, pricing offers real scope for competitive advantage. I can provide pricing tools and methodologies right through to fully optimized market pricing.
 
 I have also had significant exposure to:
 
@@ -61,6 +61,6 @@ Let's work together.
 Why not arrange a free 1 hour MS teams, Skype, Webex or Zoom? Or read on to:
 
 + [Review and segment the individual protection market](/content/2marketplayers/)
-+ [Learn about the real impact of reinsurers](/content/2marketplayers/reinsurers.html)
++ [Learn about the real impact of reinsurers](/content/3buildingblocks/reinsurance-for.html)
 + [Investigate the building blocks of protection success](/content/3buildingblocks/)
 + [Determine the best route to delivery](/content/4delivering/)
