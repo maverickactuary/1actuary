@@ -4,7 +4,7 @@ folder: /content/4delivering/
 title: Transformaction
 ---
 
-# Delivering for you
+# Delivering: the difference
 
 Here's the stark reality: few big protection projects succeed.
 

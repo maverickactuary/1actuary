@@ -6,9 +6,11 @@ title: Transformaction
 
 ## Avoiding reinsurance
 
+Our [planning article](/content/3buildingblocks/) suggested that reinsurance was the most important building block in protection. It's effective use should be part of your planning.
+
 All but one of the twelve largest protection insurers use substantial amounts of reinsurance. This has been their successful strategy since the 1990s, with the top insurers reinsuring 100% since c2011.
 
-While [reinsurance works for them](reinsurance-against.html) there are two examples of insurers not using much reinsurance. This article considers both and their reasons for non-use.
+While [reinsurance works for them](reinsurance-for.html) there are two examples of insurers not using much reinsurance. This article considers both and their reasons for non-use.
 
 ## Reasons for not using reinsurance
 
