@@ -10,7 +10,7 @@ Our [planning article](/content/3buildingblocks/) suggested that reinsurance was
 
 All but one of the twelve largest protection insurers use substantial amounts of reinsurance. This has been their successful strategy since the 1990s, with the top insurers reinsuring 100% since c2011.
 
-This article shows why reinsurance works for them and ends with a nightmare scenario. (For balance there are [two examples](reinsurance-against.html) of insurers not using much reinsurance.)
+This article shows why reinsurance works for them and ends with a nightmare scenario. (For balance: [two examples](reinsurance-against.html) of insurers not using much reinsurance.)
 
 ## Reinsurance? Not so fast!
 
@@ -22,7 +22,7 @@ The need for distribution is obvious; advisers need to have confidence in your p
 
 Reinsurance has many benefits for the modern protection insurer, especially when 100% reinsurance is used. It can really help smaller insurers and protection specialists.
 
-These benefits can be measured numerically in profit tests and swamp the impact of the reinsurer's expenses and profits. This forms a business case for reinsurance.
+These benefits can be measured numerically in profit tests, forming a business case for reinsurance.
 
 **Reinsurance can help you to:**
 
@@ -35,6 +35,8 @@ These benefits can be measured numerically in profit tests and swamp the impact 
 **Avoid the winner's curse.** Specialists know the [winner's curse](https://en.wikipedia.org/wiki/Winner%27s_curse) operates in [group risk](https://www.actuaries.digital/2014/07/22/the-winners-curse/) markets and in [reinsurance](https://www.casact.org/education/clrs/2011/handouts/R3-Rozema.pdf). Let the curse work for you &mdash; or do better still.
 
 **Be more ambitious and rigorous.** Reinsurers must be convinced up front by your plans, expertise and ability to deliver. The need to match ongoing expected mortality experience requires a focus on distribution and underwriting.
+
+**Increase your expertise.** The big reinsurer-sponsored conferences are long gone, but they can still provide market knowledge and support in the areas of underwriting, claims, pricing and distribution.
 
 **Conserve cash.** Writing a protection policy usually means a large cash outflow at time 0, not least because of the need to fund substantial adviser initial commission. Reinsurance can mitigate or remove this: it is possible to be cash-positive immediately.
 
