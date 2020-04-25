@@ -104,6 +104,9 @@ em.update {
 	padding: 0.5rem
 }
 
+.nopadding {
+	padding: 0rem
+}
 .main-content p.nobot {
 	margin-bottom: 0
 }

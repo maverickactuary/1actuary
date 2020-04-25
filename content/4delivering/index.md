@@ -6,6 +6,12 @@ title: Transformaction
 
 # Delivering: the difference
 
+Delivering is step three in our protection challenge:
+
+1. [Review your current market position](/content/2marketplayers/)
+1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
+1. [Deliver robustly, cost effectively and at pace](/content/4delivering/){: .highlight .nopadding}
+
 Here's the stark reality: few big protection projects succeed.
 
 There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows. Some have been clients.
