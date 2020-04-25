@@ -1,7 +1,7 @@
 ---
 layout: default
 folder: /
-title: "Transformaction"
+title: Transformaction &mdash; build &middot; improve &middot; optimize
 ---
 
 # Protection is tough ...

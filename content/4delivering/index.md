@@ -1,12 +1,12 @@
 ---
 layout: default
 folder: /content/4delivering/
-title: Transformaction
+title: Delivering protection transformation
 ---
 
 # Delivering: the difference
 
-Delivering is step three in our protection challenge:
+Delivering, step three in our protection challenge, is a big differentiator:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs

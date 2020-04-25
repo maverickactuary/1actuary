@@ -1,12 +1,12 @@
 ---
 layout: default
 folder: /content/2marketplayers/
-title: Transformaction
+title: Reviewing the protection status quo
 ---
 
 ## Protection market review
 
-Review is step one in our protection challenge:
+Reviewing the status quo is step one in our protection challenge:
 
 1. [Review your current market position](/content/2marketplayers/){: .highlight .nopadding}
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
