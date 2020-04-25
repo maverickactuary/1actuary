@@ -34,6 +34,8 @@ These benefits swamp the impact of the reinsurer's expenses and profits.
 
 **Be more ambitious and rigorous.** Reinsurers must be convinced by your plans, expertise and ability to deliver. Not all get through this stage. The need to deliver expected mortality experience requires a focus on distribution and underwriting.
 
+**Conserve cash.** Writing a protection policy usually means a large cash outflow at time 0, not least because of the need to fund substantial adviser initial commission. Reinsurance can mitigate or remove this: it is possible to be cash-positive immediately.
+
 **Manage capital.** Large composite insurers with general and life insurance operations, including annuities, protection, pensions and investment, may be as well diversified as reinsurers, with consequent capital benefits. More common are:
 
 + Life and pensions insurers e.g. Aegon, L&amp;G and Royal London.
