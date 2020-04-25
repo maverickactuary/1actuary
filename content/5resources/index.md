@@ -65,7 +65,7 @@ Therefore ... rationale for writing articles and their content.
 
 ## Working together
 
-**Transformaction** is an actuarial consultancy with deep experience of price competitive markets and particular expertise in the insurance protection sector. Founder [Andrew Howe](http://www.linkedin.com/in/maverickactuary) has worked with market leaders and challengers: IFA market insurers, aggregator brands and Friendly Societies.
+**Transformaction** is an actuarial consultancy with deep experience of price competitive markets and particular expertise in the insurance protection sector. Founder [Andrew Howe](https://www.linkedin.com/in/maverickactuary) has worked with market leaders and challengers: IFA market insurers, aggregator brands and Friendly Societies.
 
 ### You may be:
 
