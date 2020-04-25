@@ -57,7 +57,7 @@ Read more about the [Fascinating Friendlies](friendly-societies.html).
 Where next? Defaqto's [2020 Protection Service Review](https://defaqto.com/advisers/publications/protection-service-review-2020/) gives advisers' views.
 
 + [20 protection providers ranked](defaqto-market.html)
-+ [The top 10 service areas](/3buildingblocks)
++ [The top 10 service areas](/content/3buildingblocks/)
 
 <!-- Suppress
 
