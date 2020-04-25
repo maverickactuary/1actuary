@@ -10,7 +10,7 @@ Planning is step two in our protection challenge:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
-1. [Deliver robustly, cost effectively and at pace](/content/4delivering/)
+1. [Deliver robustly and cost effectively](/content/4delivering/)
 
 Build your way to protection success. Develop expertise and capability in:
 

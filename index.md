@@ -18,13 +18,13 @@ title: "Transformaction"
 
 ## How I can help
 
-This website tweaks the plan-do-review approach:
+Tweaking the plan-do-review approach we can:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
-1. [Deliver robustly, cost effectively and at pace](/content/4delivering/)
+1. [Deliver robustly and cost effectively](/content/4delivering/)
 
-I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and founder of Transformaction, a boutique pricing and analytics consultancy with a focus on the protection market. I carry out or oversee all work.
+I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and founder of Transformaction, a boutique pricing and analytics consultancy with a protection focus. I carry out or oversee all work.
 
 **If you are a specialist** I have the expertise and toolkit, developed over many years, to help you to enter markets, develop products and maximize profits by trading off prices, volume and much more.
 
@@ -40,7 +40,9 @@ I'm [Andrew Howe](https://www.linkedin.com/in/maverickactuary/), actuary and fou
 + **Efficient and speedy delivery**
 + **Competitively-priced expertise**
 
-My focus is on price competitive markets, especially insurance protection, working with market leaders, start-ups and those needing fresh impetus. Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. I also work closely with reinsurers.
+My focus is on price competitive markets, especially insurance protection, working with market leaders, start-ups and those needing fresh impetus. 
+
+Clients include Friendly Societies and insurers distributing via the IFA and aggregator channels. Not suprisingly given their importance, I also work closely with reinsurers.
 
 ## Specialisms
 

@@ -10,7 +10,7 @@ Delivering is step three in our protection challenge:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
-1. [Deliver robustly, cost effectively and at pace](/content/4delivering/){: .highlight .nopadding}
+1. [Deliver robustly and cost effectively](/content/4delivering/){: .highlight .nopadding}
 
 Here's the stark reality: few big protection projects succeed.
 

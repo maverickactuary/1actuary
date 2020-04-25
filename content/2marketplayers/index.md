@@ -10,7 +10,7 @@ Review is step one in our protection challenge:
 
 1. [Review your current market position](/content/2marketplayers/){: .highlight .nopadding}
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
-1. [Deliver robustly, cost effectively and at pace](/content/4delivering/)
+1. [Deliver robustly and cost effectively](/content/4delivering/)
 
 You are an insurer who wants to improve its protection products, volumes or profits.
 
