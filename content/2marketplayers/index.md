@@ -4,7 +4,7 @@ folder: /content/2marketplayers/
 title: Reviewing the protection status quo
 ---
 
-## Protection market review
+## Market review
 
 Reviewing the status quo is step one in our protection challenge:
 
@@ -14,9 +14,9 @@ Reviewing the status quo is step one in our protection challenge:
 
 You are an insurer who wants to improve its protection products, volumes or profits.
 
-A good first step is to review the landscape. Who are your competitors and what advantages do they enjoy over you? Do you have what it takes to secure the improvement you want?
+A good first step is to review the landscape. Who are your competitors and what advantages do they enjoy over you? Can you secure the improvement you want?
 
-This article segments the market and gives predictions.
+This article segments the market and gives predictions. Capability is separate.
 
 ## Market segmentation and predictions
 
