@@ -6,7 +6,7 @@ title: Planning &mdash; building blocks of protection success
 
 ## Planning success: building blocks
 
-Planning &mdash; step two in a protection challenge &mdash; includes a strong steer, based on a survey of IFAs:
+Planning is step two in a protection challenge. This article includes a strong steer, from survey of IFAs:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
@@ -21,10 +21,6 @@ Build your way to protection success. Develop expertise and capability in:
 + Product design
 + Commission
 + Existing business servicing
-
-These are in priority order (i.e. most important first) to get [robust and cost effective delivery](/content/4delivering/) of major protection projects. The ranking applies also for ongoing success.
-
-Look beyond the insurer to see the importance of these building blocks:
 
 Look beyond the insurer to see these building blocks in action:
 

@@ -56,6 +56,18 @@ This supplies the drive to move forward and spend with confidence.
 | 4   | Give up. Or finish build and launch.   | Give up. Or build and launch.                   |
 | 5   | Exhaustion or continued struggle.      | Review, reap and improve.                       |
 
+[Recall](/content/3buildingblocks) that capability in the following determines project success:
+
+1. Reinsurance &mdash; [here's why](reinsurance-for.html)
+1. Pricing
+1. New business underwriting
+1. Distribution
+1. Product design
+1. Commission
+1. Existing business servicing
+
+You should aim to develop expertise in the first 2-3 items early on, displaying it by the time you approach a reinsurer.
+
 ## Five stages to launch
 
 ### Stage 1
