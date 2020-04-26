@@ -4,7 +4,7 @@ folder: /content/2marketplayers/
 title: Reviewing the protection status quo
 ---
 
-## Reviewing the status quo
+## Reviewing the your world
 
 This is step one in a protection project:
 
