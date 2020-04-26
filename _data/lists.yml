@@ -1,4 +1,4 @@
-- title: Ho # <img src="{{site.baseurl}}/graphics/home.png"> # ![Home] ( {{ site.url }}/graphics/home.png) # Home
+- title: Home # <img src="{{site.baseurl}}/graphics/home.png"> # ![Home] ( {{ site.url }}/graphics/home.png) # Home
   url: /
 # - title: Market players
 # - title: Reviewing
