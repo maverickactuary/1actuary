@@ -22,7 +22,11 @@ Build your way to protection success. Develop expertise and capability in:
 + Commission
 + Existing business servicing
 
-The order is most important first to get [robust and cost effective delivery](/content/4delivering/) of a major protection project. The ranking applies also for ongoing success. Look beyond the insurer to see why these building blocks are so important:
+These are in priority order (i.e. most important first) to get [robust and cost effective delivery](/content/4delivering/) of major protection projects. The ranking applies also for ongoing success.
+
+Look beyond the insurer to see the importance of these building blocks:
+
+Look beyond the insurer to see these building blocks in action:
 
 + **Consumers** are affected by products, underwriting and price.
 + **Distributors** want sales (c.f. consumer factors) and commission.
@@ -97,7 +101,7 @@ At the bottom of the table, as usual. While an adviser can't really be seen to p
 
 Prices have been less visible to competitors since 201+ Pricing gives real scope for competitive advantage for the imaginative; only a minority adopt modern techniques.
 
-Price was outside the report's scope, but  but its role &ndash; in particular positioning on the portal displaying the quotes &ndash; is critical. The top three positions can take an 80% share.
+Price was outside the report's scope, but its role &ndash; in particular positioning on the portal displaying the quotes &ndash; is critical. The top three positions can take an 80% share.
 
 Do you know you position on portals?
 

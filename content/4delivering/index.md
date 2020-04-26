@@ -62,7 +62,7 @@ This supplies the drive to move forward and spend with confidence.
 
 **In the old world** you generate the proposition. Perhaps you have a blank sheet of paper, are unconstrained by legacy systems and have great product ideas. You may talk to a reinsurer. They've heard all this before, but are too polite to say.
 
-**In the new world** you postpone approaching reinsurers and instead get the proposition reviewed by a protection expert. He's builds on your ideas, suggests what reinsurers want and equips you.
+**In the new world** you postpone approaching reinsurers and instead get the proposition reviewed by a protection expert. He builds on your ideas, suggests what reinsurers want and equips you.
 
 ### Stage 2
 
