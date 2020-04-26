@@ -4,9 +4,9 @@ folder: /content/2marketplayers/
 title: Reviewing the protection status quo
 ---
 
-## Market review
+## Reviewing the status quo
 
-Reviewing the status quo is step one in our protection challenge:
+This is step one in a protection project:
 
 1. [Review your current market position](/content/2marketplayers/){: .highlight .nopadding}
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs

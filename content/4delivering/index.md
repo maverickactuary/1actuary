@@ -4,9 +4,9 @@ folder: /content/4delivering/
 title: Delivering protection transformation
 ---
 
-# Delivering: the difference
+# Delivering
 
-Delivering, step three in our protection challenge, is a big differentiator:
+This is step three in a protection project:
 
 1. [Review your current market position](/content/2marketplayers/)
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
@@ -17,6 +17,8 @@ Here's the stark reality: few big protection projects succeed.
 There have been 10 years of launches and relaunches: Beagle Street, Canada Life, Guardian, HSBC and Scottish Widows. Some have been clients.
 
 I've seen good, bad and ugly.
+
+ Increasingly reinsurers place emphasis on an insurer's ability to deliver, as they determine where to invest their financial and operational resources. Delivery is a differentiator.
 
 Why do so many big projects struggle? How can we improve the chances of success and cut down on waste, building robustly, cost effectively and at pace?
 
