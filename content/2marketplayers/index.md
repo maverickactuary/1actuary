@@ -12,11 +12,13 @@ This is step one in a protection project:
 1. [Plan for success](/content/3buildingblocks/) as suggested by IFAs
 1. [Deliver robustly and cost effectively](/content/4delivering/)
 
+Reviewing your world might include assessing the market (covered in this article) and your own capability (not covered here).
+
 You are an insurer who wants to improve its protection products, volumes or profits.
 
 A good first step is to review the landscape. Who are your competitors and what advantages do they enjoy over you? Can you secure the improvement you want?
 
-This article segments the market and gives predictions. Capability is separate.
+This article segments the market and gives predictions. 
 
 ## Market segmentation and predictions
 
