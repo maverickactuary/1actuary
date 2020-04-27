@@ -8,7 +8,6 @@ title: Planning &mdash; building blocks of protection success
 
 This is step two in a protection project.
 
-1. Assessing capability is not covered in this article.
 1. [Review your current market position](/content/2marketplayers/)
 1. <span class="highlight nopadding"><a href="/content/3buildingblocks/">Plan for success as suggested by IFAs</a>
 1. [Deliver robustly and cost effectively](/content/4delivering/)
