@@ -18,7 +18,9 @@ There have been 10 years of launches and relaunches: Beagle Street, Canada Life,
 
 I've seen good, bad and ugly.
 
- Increasingly reinsurers place emphasis on an insurer's ability to deliver, as they determine where to invest their financial and operational resources. Delivery is a differentiator.
+Increasingly reinsurers place emphasis on an insurer's ability to deliver, as they determine where to invest their financial and operational resources.
+
+Delivery is a differentiator.
 
 Why do so many big projects struggle? How can we improve the chances of success and cut down on waste, building robustly, cost effectively and at pace?
 
