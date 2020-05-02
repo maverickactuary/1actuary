@@ -62,7 +62,7 @@ This supplies the drive to move forward and spend with confidence.
 
 [Recall](/content/3buildingblocks) that capability in the following determines project success:
 
-1. Reinsurance &mdash; [here's why](reinsurance-for.html)
+1. Reinsurance &mdash; [here's why](/content/3buildingblocks/reinsurance-for.html)
 1. Pricing
 1. New business underwriting
 1. Distribution
