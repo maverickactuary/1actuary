@@ -8,47 +8,115 @@ title: Transformaction
 
 The top six Friendly Societies with adviser focus are fascinating. The following table summarizes their product offerings. Most offer Income Protection (IP), some offer over-50s cover (50+) and just one has branched into a niche term offering.
 
-| Society     | IP | 50+   | Term  |
-|:------------|:--:|:-----:|:-----:|
-| British     | Y  | N     | N     |
-| Cirencester | Y  | N     | N     |
-| Holloway    | Y  | N     | N     |
-| OneFamily   | N  | Niche | N     |
-| Shepherds   | Y  | Y     | N     |
-| The Exeter  | Y  | N     | Niche |
+## Headline numbers
+
+| Society     | Accounts | Customers | Staff | Income | Assets |
+|:------------|:--------:|----------:| ----: | -----: | -----: |
+| OneFamily   | 2019     | c2.6m     |   486 |   112m |   7.5b |
+| The Exeter  | 2019     | c98k      |   145 |    68m |   245m |
+| Shepherds   | 2018     | c98k (*)  |    59 |    19m |   114m |
+| Cirencester | 2018     | c37k      |    63 |    18m |   145m |
+| British     | 2018     | c27k      |    51 |     9m |    77m |
+| Holloway    | 2018     | c18k      |   TBC |     7m |    62m |
+
+(*) 98k is the number the number of in force plans (members not disclosed).
+
+## Products
+
+| Society     | IP | 50+   | Term  | Bonds (1) |
+|:------------|:--:|:-----:|:-----:|:---------:|
+| OneFamily   | N  | Y (2) | N     | Y         |
+| The Exeter  | Y  | N     | Y (3) | N         |
+| Shepherds   | Y  | Y     | N     | Y         |
+| Cirencester | Y  | N     | N     | N         |
+| British     | Y  | N     | N     | N         |
+| Holloway    | Y  | N     | N     | Y         |
+
+**Notes**
+
+1. This is shorthand for a combinations of traditional savings plans (with a limits of e.g. &pound; per month contributions), ISAs, Child Trust Funds and JISAs (the CTF replacement).
+1. Unusually this includes a critical illness benefit.
+1. The Exeter offers two term products for those it believes are under-served.
 
 [Summary of over-50s providers](https://www.over50choices.co.uk/funeral-planning/over-50-life-insurance)
 
-## British, Cirencester and Holloway
-
-#### British Friendly
-
-+ [Quote and Apply](https://advisers.britishfriendly.com/quote/)
-+ [Products](https://advisers.britishfriendly.com/our-products/)
-+ [Adviser Toolkit](https://advisers.britishfriendly.com/adviser-toolkit/)
-
-#### Cirencester
-
-Interestingly the website states that "With effect from 23rd March 2020 Our current stance is to only establish successful new applications for agencies on a Non-Indemnity basis only. This is subject to review after an initial 6 months, when Indemnity terms might be considered."
-
-Cirencester suggests that Permanent Health Insurance is largely underwritten on occupation, whereas its Income Protection is not. [Read more](https://www.cirencester-friendly.co.uk/difference-between-income-protection-and-phi).
-
-+ [Quote and Apply](https://ciqe.cirencester-friendly.co.uk/form/)
-
 ## OneFamily
 
-Main business is ... Provides just over-50s cover.
++ Chief Executive: Teddy Nyahasha (2020)
++ [2019 report and accounts](https://www.onefamily.com/assets/consumer/downloads/company-information/onefamily-annual-report-and-financial-statement-2019.pdf)
 
-## Shepherds
+OneFamily has 2.6m customers, of which 1.6m are young people with Child Trust Fund accounts. These start to mature in September 2020, so it will be interesting to see how may of these customers are retained.
 
-Adds an over-50s plan.
+As at 31/12/2019 OneFamily employed 486 staff, including management.
+
+OneFamily's products are:
+
++ Child Trust Funds, as above
++ Junior and Family bonds (classic &pound;25 per month)
++ ISAs and LISAs
++ Lifetime mortgages, with a whole-of-market advisory business
++ An over-50s product with a difference, mainly sold through IFAs
 
 ## The Exeter
 
-The Exeter Swaps 50+ for two niche term plans.
++ Chief Executive: Andy Chapman (2008)
++ [The Exeter 2019 report and accounts](https://annualreport.the-exeter.com/xmlpages/resources/TXP/the_exeter/downloads/The_Exeter_Annual_Report_2019.pdf)
+
+The Exeter has c98k customers and as at 31/12/2019 employed 145 staff, including management.
+
+The Exeter's products are:
+
+1. Income Protection
+1. Life insurance (Real Life and Managed Life)
+1. Private Medical Insurance (Health+)
+1. Health Cash Plans
+
+Unusually, The Exeter’s insurance businesses consists of both life and general insurance, respectively 1-2 and 3-4 above. Distribution is primarily through financial
+advisers and broker networks.
+
+The Exeter has actively developed its product range in recent years. A new version of the PMI plan (Health+) was launched in September 2018, while 2019 saw Real Life rolled out to the whole adviser market and a range of free medical advice and treatments service, including a HealthWise app..
 
 [Managed Life](https://www.the-exeter.com/customer/life-cover/managed-life/) is specialist life cover for people who suffer from type 2 diabetes or who are overweight. It has reviewable premiums: The Exeter asks for evidence of the customer's condition each year and if the policyholder gets healthier premiums reduce &mdash; and vice versa.
 
 [Real Life](https://www.the-exeter.com/customer/life-cover/real-life/) is specialist life cover for people living with serious or multiple health conditions.
 
 [Health+](https://www.the-exeter.com/customer/health-insurance/) is private medical insurance. It comes complete with [a funky video](https://player.vimeo.com/video/289470447?title=0&byline=0&portrait=0).
+
+Clearly this is a company going places, with a vision in 2019 to become the protection provider of choice for its customers and distribution partners through the development of quality products, efficient processing and rapid claims payment. It also seeks M&amp;A opportunities, so the sector may see consolidation.
+
+## Shepherds  Friendly Society
+
++ Chief Executive: Ann-Marie O’Dea (2015)
++ [Shepherds Friendly Society 2018 report and accounts](https://shepherdsfriendly.blob.core.windows.net/pdf-media/reports-and-accounts-2018.pdf)
+
+Established in 1826, Shepherds offers the following products:
+
++ Junior and adult bonds and ISAs
++ Income Protection
++ Over-50s life cover
+
+## Cirencester Friendly Society
+
++ Chief Executive: Paul Hudson (1997)
++ [Cirencester Friendly 2018 report and accounts](https://www.cirencester-friendly.co.uk/annual_reports_and_accounts)
+
+Founded in 1890, [Cirencester has a long history](https://www.cirencester-friendly.co.uk/our-history). The Society now sell several Holloway and non-Holloway Income Protection products, although it has avoided short term Income Protection (STIP) variants.
+
+## British Friendly Society
+
++ Chief Executive: Gordon Hull  (2019)
++ [British Friendly 2018 report and accounts](https://bfs-assets.s3.amazonaws.com/media/filer_public/d1/a4/d1a44b1f-3988-4733-ab5f-6c2ef445c583/a4_print_version_v_26419.pdf)
+
+British Friendly's 2018 accounts suggest that it want to grow in its members' interests, expanding its distribution and product reach &mdash; potentially beyond income protection.
+
+It still sells a traditional Holloway plan, but growth has mainly come since 2011 in the form of "pure protection" Income Protection products
+
++ [Products](https://advisers.britishfriendly.com/our-products/)
++ [Adviser Toolkit](https://advisers.britishfriendly.com/adviser-toolkit/)
+
+## Holloway Friendly Society
+
++ Chief Executive: Stuart Tragheim (2016)
++ [Holloway Friendly Society 2018 report and accounts](https://www.holloway.co.uk/docs/download/Annual_Report_Accounts_2018.pdf)
+
+In line with several other societies, Holloway has invested in upgraded IT systems (PRISM for Holloway). Perhaps it is this which allowed it in 2018 to achieve an average time from application to underwriting decision of just 4 hours.
