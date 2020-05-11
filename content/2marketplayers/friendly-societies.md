@@ -4,7 +4,7 @@ folder: /content/2marketplayers/
 title: Transformaction
 ---
 
-## Friendly focus1
+## Friendly focus
 
 This article considers the top six Friendly Societies with an adviser focus.
 
