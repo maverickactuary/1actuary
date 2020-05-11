@@ -4,9 +4,9 @@ folder: /content/2marketplayers/
 title: Transformaction
 ---
 
-## Fascinating Friendlies
+## Friendly focus
 
-The top six Friendly Societies with adviser focus are fascinating. The following table summarizes their product offerings. Most offer Income Protection (IP), some offer over-50s cover (50+) and just one has branched into a niche term offering.
+This article considers the top six Friendly Societies with an adviser focus.
 
 ## Headline numbers
 
@@ -45,15 +45,13 @@ The top six Friendly Societies with adviser focus are fascinating. The following
 + Chief Executive: Teddy Nyahasha (2020)
 + [2019 report and accounts](https://www.onefamily.com/assets/consumer/downloads/company-information/onefamily-annual-report-and-financial-statement-2019.pdf)
 
-OneFamily has 2.6m customers, of which 1.6m are young people with Child Trust Fund accounts. These start to mature in September 2020, so it will be interesting to see how may of these customers are retained.
-
-As at 31/12/2019 OneFamily employed 486 staff, including management.
+With 2.6m customers OneFamily stands out. Interestingly 1.6m are young people with Child Trust Fund accounts which start to mature in September 2020. Retaining these will be the challenge.
 
 OneFamily's products are:
 
 + Child Trust Funds, as above
-+ Junior and Family bonds (classic &pound;25 per month)
 + ISAs and LISAs
++ Junior and Family bonds (classic &pound;25 per month)
 + Lifetime mortgages, with a whole-of-market advisory business
 + An over-50s product with a difference, mainly sold through IFAs
 
