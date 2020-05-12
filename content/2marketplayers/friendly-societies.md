@@ -6,31 +6,31 @@ title: Transformaction
 
 ## Friendly focus
 
-This article considers the top six Friendly Societies with an adviser focus.
+This article considers the top six Friendly Societies with an adviser focus. We look at headline numbers, products and market and strategic positioning, finishing with provider-specific content.
 
 ## Headline numbers
 
-| Society     | Accounts | Customers | Staff | Income | Assets |
-|:------------|:--------:|----------:| ----: | -----: | -----: |
-| OneFamily   | 2019     | c2.6m     |   486 |   112m |   7.5b |
-| The Exeter  | 2019     | c98k      |   145 |    68m |   245m |
-| Shepherds   | 2018     | c98k (*)  |    59 |    19m |   114m |
-| Cirencester | 2018     | c37k      |    63 |    18m |   145m |
-| British     | 2018     | c27k      |    51 |     9m |    77m |
-| Holloway    | 2018     | c18k      |   TBC |     7m |    62m |
+| Society                                    | Accounts | Customers | Staff | Income | Assets |
+|:-------------------------------------------|:--------:|----------:| ----: | -----: | -----: |
+| [OneFamily](https://www.onefamily.com/)    | 2019     | c2.6m     |   486 |   112m |   7.5b |
+| [The Exeter](https://www.the-exeter.com/)  | 2019     | c98k      |   145 |    68m |   245m |
+| [Shepherds](https://www.shepherdsfriendly.co.uk/) | 2018     | c98k (*)  |    59 |    19m |   114m |
+| [Cirencester](https://www.cirencester-friendly.co.uk/) | 2018     | c37k      |    63 |    18m |   145m |
+| [British](https://www.britishfriendly.com/)| 2018     | c27k      |    51 |     9m |    77m |
+| [Holloway](https://www.holloway.co.uk/)    | 2018     | c18k      |   TBC |     7m |    62m |
 
 (*) 98k is the number the number of in force plans (members not disclosed).
 
 ## Products
 
-| Society     | IP | 50+   | Term  | Bonds (1) |
-|:------------|:--:|:-----:|:-----:|:---------:|
-| OneFamily   | N  | Y (2) | N     | Y         |
-| The Exeter  | Y  | N     | Y (3) | N         |
-| Shepherds   | Y  | Y     | N     | Y         |
-| Cirencester | Y  | N     | N     | N         |
-| British     | Y  | N     | N     | N         |
-| Holloway    | Y  | N     | N     | Y         |
+| Society                                                | IP | 50+   | Term  | Bonds (1) |
+|:-------------------------------------------------------|:--:|:-----:|:-----:|:---------:|
+| [OneFamily](https://www.onefamily.com/)                | N  | Y (2) | N     | Y         |
+| [The Exeter](https://www.the-exeter.com/)              | Y  | N     | Y (3) | N         |
+| [Shepherds](https://www.shepherdsfriendly.co.uk/)      | Y  | Y     | N     | Y         |
+| [Cirencester](https://www.cirencester-friendly.co.uk/) | Y  | N     | N     | N         |
+| [British](https://www.britishfriendly.com/)            | Y  | N     | N     | N         |
+| [Holloway](https://www.holloway.co.uk/)                | Y  | N     | N     | Y         |
 
 **Notes**
 
@@ -39,6 +39,27 @@ This article considers the top six Friendly Societies with an adviser focus.
 1. The Exeter offers two term products for those it believes are under-served.
 
 [Summary of over-50s providers](https://www.over50choices.co.uk/funeral-planning/over-50-life-insurance)
+
+## Market and strategic positioning
+
+The six Societies covered in this document fall into three categories.
+
+**The big society** is [OneFamily](https://www.onefamily.com/). While they probably want to grow their protection presence, the main immediate challenge is to maintain and ideally grow their core business, which is small retail investments &mdash; in particular the former Child Trust Funds, which start maturing in September 2020.
+
+**The growing society** describes [The Exeter](https://www.the-exeter.com/). They have clearly made significant advances in recent years, including the development of new products and volume growth. We should probably expect them to do more of the same. At what point might they break into the "main" term market?
+
+**The niche societies** are the final four players: [British](https://www.britishfriendly.com/), [Cirencester](https://www.cirencester-friendly.co.uk/), [Holloway](https://www.holloway.co.uk/) and [Shepherds](https://www.shepherdsfriendly.co.uk/) are smaller and more niche than the two Societies above. While some have investment products as well as Income Protection none have life or critical illness term. Who will make the break?
+
+## Friendlies: their straplines
+
+Do a Google search and you find:
+
++ [OneFamily](https://www.onefamily.com/) : Savings, Lifetime Mortgages & Over 50s Insurance
++ [Shepherds](https://www.shepherdsfriendly.co.uk/) : Savings and insurance
++ [British](https://www.britishfriendly.com/) : Income Protection specialists
++ [Holloway](https://www.holloway.co.uk/) : The original Income Protection specialists
+
+No strapline is offered by The Exeter (where a Google search brings up The Exeter: Home) and Cirencester (where a Google search brings up Cirencester Friendly).
 
 ## OneFamily
 
@@ -107,10 +128,7 @@ Founded in 1890, [Cirencester has a long history](https://www.cirencester-friend
 
 British Friendly's 2018 accounts suggest that it want to grow in its members' interests, expanding its distribution and product reach &mdash; potentially beyond income protection.
 
-It still sells a traditional Holloway plan, but growth has mainly come since 2011 in the form of "pure protection" Income Protection products
-
-+ [Products](https://advisers.britishfriendly.com/our-products/)
-+ [Adviser Toolkit](https://advisers.britishfriendly.com/adviser-toolkit/)
+It [no longer sells a traditional Holloway plan](https://members.britishfriendly.com/policies/holloway/), with growth since 2011 coming from ["pure protection" Income Protection products](https://advisers.britishfriendly.com/our-products/).
 
 ## Holloway Friendly Society
 
