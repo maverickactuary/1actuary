@@ -85,10 +85,10 @@ The Exeter has c98k customers and as at 31/12/2019 employed 145 staff, including
 
 The Exeter's products are:
 
-1. Income Protection
-1. Life insurance (Real Life and Managed Life)
-1. Private Medical Insurance (Health+)
-1. Health Cash Plans
++ Income Protection
++ Life insurance (Real Life and Managed Life)
++ Private Medical Insurance (Health+)
++ Health Cash Plans
 
 Unusually, The Exeter’s insurance businesses consists of both life and general insurance, respectively 1-2 and 3-4 above. Distribution is primarily through financial
 advisers and broker networks.
@@ -101,7 +101,7 @@ The Exeter has actively developed its product range in recent years. A new versi
 
 [Health+](https://www.the-exeter.com/customer/health-insurance/) is private medical insurance. It comes complete with [a funky video](https://player.vimeo.com/video/289470447?title=0&byline=0&portrait=0).
 
-Clearly this is a company going places, with a vision in 2019 to become the protection provider of choice for its customers and distribution partners through the development of quality products, efficient processing and rapid claims payment. It also seeks M&amp;A opportunities, so the sector may see consolidation.
+The Exeter is clearly advancing, with a vision to become the protection provider of choice for its customers and distribution partners by developing quality products, efficient processing and rapid claims payment. Interestingly it also seeks M&amp;A opportunities.
 
 ## Shepherds  Friendly Society
 
