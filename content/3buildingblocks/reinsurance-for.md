@@ -26,6 +26,8 @@ These benefits can be measured numerically in profit tests, forming a business c
 
 **Reinsurance can help you to:**
 
+**Boost profitability.** Try a simple test. Set your term assurance pricing basis, independently of reinsurance. Derive a retail premium to give, say, profitability of 40% of one annual premium. Observe your resulting market position. Now factor in reinsurance premiums. Almost every deal I've seen increases an insurer's profitability.
+
 **Reduce uncertainty and clarify financials.** With no net claims profits are affected more by lapses than deaths. Insurer profits can be a simple function of retail and reinsurance premiums.
 
 **Simplify operations.** Less time worrying about mortality assumptions means more time on essentials: volume, market pricing, underwriting, expenses, lapses and capital.

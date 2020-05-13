@@ -119,7 +119,7 @@ Established in 1826, Shepherds offers the following products:
 + Chief Executive: Paul Hudson (1997)
 + [Cirencester Friendly 2018 report and accounts](https://www.cirencester-friendly.co.uk/annual_reports_and_accounts)
 
-Founded in 1890, [Cirencester has a long history](https://www.cirencester-friendly.co.uk/our-history). The Society now sell several Holloway and non-Holloway Income Protection products, although it has avoided short term Income Protection (STIP) variants.
+Founded in 1890, [Cirencester has a long history](https://www.cirencester-friendly.co.uk/our-history). It now sells several Holloway and non-Holloway Income Protection products, although it has avoided short term Income Protection (STIP) variants.
 
 ## British Friendly Society
 
